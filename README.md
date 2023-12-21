@@ -1,5 +1,5 @@
 # Laba_2_Docker_Compose
-Задание
+Задание:
 С помощью Docker-compose развернуть среду из 4 контейнеров.
 Контейнер 1. PostgreSQL
 Контейнер 2. Spark – master
