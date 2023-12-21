@@ -15,3 +15,11 @@
 задача:
 Из данных house_prices вывести информацию: Средние стоимости квартир и домов в
 зависимости от района и количества комнат.
+
+Результат работы:
+
+Запущенные контейнеры
+<img width="340" alt="docker_compose_work" src="https://github.com/Daria-Krylova/Laba_2_Docker_Compose/assets/55152528/3277463f-5459-49a2-98f2-69d43bc09933">
+
+Результат работы приложения
+<img width="469" alt="docker_2_table" src="https://github.com/Daria-Krylova/Laba_2_Docker_Compose/assets/55152528/09f189a8-7828-4118-9e75-62cd0cbee19e">
